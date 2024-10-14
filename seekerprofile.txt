@@ -1,0 +1,10 @@
+Ananya 27 F CHENNAI 96 98 BE 7.9 3 ProjectDeveloper cpp  
+Roslin 26 F BANGALORE 98 99 BE 9.2 3 ProjectHead Java  
+Ramesh 27 M BANGALORE 92 85 BTECH 8.9 3 Professor Nil  
+Sharmi 23 F MUMBAI 86 85 ME 8.2 2 LegalAdvisor Nil  
+Jessica 30 F CHENNAI 78 80 BE 9.5 0 UI/UXDesigner ML  
+Karthik 23 M CHENNAI 96 98 BE 8.0 0 ProjectDeveloper Nil  
+Rohan 32 M DELHI 90 92 MTECH 7.8 5 Professor matlab
+seshanvr 1 M CHENNAI 10 10 ME 9.000000 9.000000 director XYZ 
+diya_s 18 F CHENNAI 490 495 BE 9.000000 0.000000 NIL NIL 
+hibye 22 M CHENNAI 410 290 ME 8.100000 0.000000 NIL NIL 

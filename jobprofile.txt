@@ -1,0 +1,10 @@
+HCL_xyz HCL ProjectDeveloper BE UI/UX_Design BANGALORE 2000000 1 0
+mango HCL SeniorDeveloper BTECH Python;Java HYDERABAD 200000 3.000000 1 
+HCL_abc HCL Accountant BTECH BasicComputerSkills CHENNAI 30000 0 0
+Diya Wipro ProjectDeveloper BTECH WebDevelopmentCertifications BANGALORE 100000 2 1
+Diya Wipro DataScientist BE DataScienceCertifications COIMBATORE 200000 3 0
+Hello TCS FullStackDeveloper BE WebDEvelopementSkills BANGALORE 50000 2 0
+Plum TLHotels Receptionist Nil FluencyinEnglish CHENNAI 5000 0 0
+mango HCL director BTECH java CHENNAI 500000 2.000000 0  
+diya HCL director BE Java MUMBAI 1000000 15.000000 1 
+diya HCL receptionist BTECH marketing CHENNAI 100000 2.000000 1 
